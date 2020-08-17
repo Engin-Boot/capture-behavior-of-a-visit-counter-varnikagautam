@@ -4,7 +4,8 @@
 
   Given : Day wise footfall count is reported.
   
-  When : A Person enters, the sensors increments its data and compile it to weekly reports.
+  When : A Person enters, the sensors increments its data 
+  and compile it to weekly reports.
   
   Then : The report of the week shows day wise visitor trends.
   
