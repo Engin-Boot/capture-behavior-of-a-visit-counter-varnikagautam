@@ -11,7 +11,7 @@ report for that day. Beds, seating arrangement, parking lot provided accordingly
 
 ### Scenario: Compute parking slots to reserve for visiting specialists
 
-Given : Specialist visits and an entry card is issued to him/her
+Given : Specialist visits and an entry card issued to him/her
   
 When : 1 hour before the specialist visits the hospital
   
