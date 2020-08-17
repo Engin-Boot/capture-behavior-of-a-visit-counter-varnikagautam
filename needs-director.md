@@ -6,12 +6,12 @@ Given : Any person visits the hospital, the sensor for issuing entry card works 
 
 When : A person enters the hospital on working day and holidays
 
-Then : Increment the no of entrries by 1, aggregate the total and display on the
+Then : Increment the no of entries by 1, aggregate the total and display on the
 report for that day. Beds, seating arrangement, parking lot provided accordingly
 
 ### Scenario: Compute parking slots to reserve for visiting specialists
 
-Given : Specialist vists and is issued an entry card
+Given : Specialist visits and is issued an entry card
   
 When : 1 hour before the specialist visits the hospital
   
