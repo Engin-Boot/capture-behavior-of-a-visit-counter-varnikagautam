@@ -8,6 +8,7 @@ When : A person enters the hospital on working day and holidays
 
 Then : Increment the no of entries by 1, aggregate the total and display on the
 report for that day.
+
 ### Scenario: Compute parking slots to reserve for visiting specialists
 
 Given : Specialist visits and an entry card issued to him/her
