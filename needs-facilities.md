@@ -2,7 +2,7 @@
 
 ## Scenario: Report visitor trends during a week of operation
 
-  Given : We report the day wise footfall count
+  Given : We have the day wise footfall count
   
   When : A Person enters, the sensors increments its data
   and compile it to weekly reports.
